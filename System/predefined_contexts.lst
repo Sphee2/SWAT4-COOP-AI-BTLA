@@ -1,0 +1,70 @@
+;predefined_contexts.lst
+;
+;This is the list of Contexts under which Effect Events can happen
+; and are passed in code to the Effects System.
+;
+;It is read by the IGEffectsConfigurator and is used to populate the
+; Contexts drop-down list.
+;This file can also be used as documentation for contexts.
+;
+;File Format:
+;   "ContextName: Description"
+
+;[Context]                  [Description]
+
+Level_{Label}:              the label of the current level is {Label}
+
+Level_swat_splashscene:		for splash screens only
+
+Level_SP-Arcade:		for expm01 SP-Arcade mission only
+Level_SP-HalfwayHouse:		for expm02 SP-HalfwayHouse mission only
+Level_SP-Backstage:		for expm03 SP-Backstage mission only
+Level_SP-Office:		for expm04 SP-Office mission only
+Level_SP-Druglab:		for expm05 SP-Druglab mission only
+Level_SP-Subway:		for expm06 SP-Subway mission only
+Level_SP-Warehouse:		for expm07 SP-Warehouse mission only
+
+Level_MP-Arcade:		for expm01 MP-Arcade mission only
+Level_MP-HalfwayHouse:		for expm02 MP-HalfwayHouse mission only
+Level_MP-Backstage:		for expm03 MP-Backstage mission only
+Level_MP-Office:		for expm04 MP-Office mission only
+Level_MP-Druglab:		for expm05 MP-Druglab mission only
+Level_MP-Subway:		for expm06 MP-Subway mission only
+Level_MP-Warehouse:		for expm07 MP-Warehouse mission only
+
+Level_SP-Training:		for m00 SP-Training mission only
+Level_SP-FoodWall:		for m01 SP-FoodWallmission only
+Level_SP-FairfaxResidence:	for m02 SP-FairfaxResidence mission only
+Level_SP-ConvenienceStore:	for m03 SP-ConvenienceStore mission only
+Level_SP-ABomb:			for m04 SP-ABomb mission only
+Level_SP-AutoGarage:		for m05 SP-AutoGarage mission only
+Level_SP-RedLibrary:		for m06 SP-RedLibrary mission only
+Level_SP-Casino:			for m07 SP-Casino mission only
+Level_SP-JewelryHeist:		for m08 SP-JewelryHeist mission only
+Level_SP-Tenement:		for m09 SP-Tenement mission only
+Level_SP-Hospital:		for m10 SP-Hospital mission only
+Level_SP-ArmsDeal:		for m11 SP-ArmsDeal mission only
+Level_SP-Hotel:			for m12 SP-Hotel mission only
+Level_SP-DNA:			for m13 SP-DNA mission only
+
+Level_MP-Training:		for m00 MP-Training mission only
+Level_MP-FoodWall:		for m01 MP-FoodWallmission only
+Level_MP-FairfaxResidence:	for m02 MP-FairfaxResidence mission only
+Level_MP-ConvenienceStore:	for m03 MP-ConvenienceStore mission only
+Level_MP-ABomb:			for m04 MP-ABomb mission only
+Level_MP-AutoGarage:		for m05 MP-AutoGarage mission only
+Level_MP-RedLibrary:		for m06 MP-RedLibrary mission only
+Level_MP-Casino:			for m07 MP-Casino mission only
+Level_MP-JewelryHeist:		for m08 MP-JewelryHeist mission only
+Level_MP-Tenement:		for m09 MP-Tenement mission only
+Level_MP-Hospital:		for m10 MP-Hospital mission only
+Level_MP-ArmsDeal:		for m11 MP-ArmsDeal mission only
+Level_MP-Hotel:			for m12 MP-Hotel mission only
+Level_MP-DNA:			for m13 MP-DNA mission only
+Level_MP-BullsEye:		for m14 BullsEye mission only
+Level_MP-PowerPlant:		for m15 PowerPlant mission only
+Level_MP-Courthouse:		for m16 Courthouse (prev VIP_Tower) mission only
+
+NoDamage:                   	no damage was caused
+
+Dynamic:				for playing Dynamic Music

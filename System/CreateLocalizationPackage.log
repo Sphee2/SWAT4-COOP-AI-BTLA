@@ -1,0 +1,1850 @@
+Log: Log file open, 11/22/05 12:35:55
+Init: ----------------------------------------
+Init: SWAT VERSION NUMBER: 1.0
+Init: ----------------------------------------
+Init: Compiled: Nov 22 2005 12:00:47
+Init: Command line: -windowed
+Init: Base directory: c:\perforce\Swat4ExpVUG\Builds\Release\
+Init: Character set: Unicode
+Init: Found startup configuration: Startup.ini
+Init: Adding FilePath: ..\..\ContentExpansion\System;..\..\ContentExpansion\Scenarios;..\..\ContentExpansion\Maps;..\..\ContentExpansion\Movies;..\..\ContentExpansion\LocalizedContent;..\..\ContentExpansion\Sounds;..\..\ContentExpansion\CustomSkins;..\..\ContentExpansion\Test\Maps;..\..\Content\System;..\..\Content\Scenarios;..\..\Content\Maps;..\..\LocalizedContent;..\..\Content\Sounds;..\..\Content\Movies;..\..\Content\Test\Maps
+Init: CreateLocalizationPackage.ini is out of date or missing, using Default.ini instead
+Init: User.ini is out of date or missing, using DefUser.ini instead
+Init: SwatGUIState.ini is out of date or missing, using DefSwatGUIState.ini instead
+Init: DynamicLoadout.ini is out of date or missing, using DefDynamicLoadout.ini instead
+Log: Bound to Window.dll
+Log: Bound to Core.dll
+Log: Bound to Scripting.dll
+Log: Bound to Engine.dll
+Init: Object subsystem initialized
+Init: Computer: SHAZBOT
+Init: User: shazbot
+Init: CPU Page size=4096, Processors=2
+Init: CPU Detected: Unknown processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=2608.167920 MHz
+Init: Memory total: Phys=1048044K Pagef=1711012K Virt=2097024K
+Init: Working set: 32000 / 159000
+Log: Turning off AssertWithDescription dialog box.
+Log: Bound to SwatGame.dll
+Log: Bound to RWOSupport.dll
+Log: Bound to Tyrion.dll
+Log: Bound to GUI.dll
+Log: Bound to SwatAICommon.dll
+Log: Bound to AICommon.dll
+Log: Bound to SwatAIAwareness.dll
+Log: Bound to Editor.dll
+Log: Bound to ALAudio.dll
+Log: Bound to ScriptCompiler.dll
+Log: Bound to IGEffectsSystem.dll
+Log: Bound to IGSoundEffectsSubsystem.dll
+Log: (Havok): Initializing base system.
+Log: Bound to IGVisualEffectsSubsystem.dll
+Log: Bound to SwatEquipment.dll
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Client initialized
+Log: Bound to D3DDrv.dll
+Init: Direct3D adapters detected:
+Log: 	nv4_disp.dll/NVIDIA GeForce4 Ti 4200
+Init: D3D Driver: MaxTextureBlendStages=8
+Init: D3D Driver: MaxSimultaneousTextures=4
+Init: D3D Driver: MaxActiveLights=8
+Init: D3D Driver: MaxPrimitiveCount=1048575
+Init: D3D Driver: MaxVertexIndex=1048575
+Init: D3D Driver: MaxStreams=16
+Init: D3D Driver: MaxStreamStride=255
+Init: D3D Driver: MaxVertexShaderConst=96
+Init: D3D Driver: VertexShaderVersion=1.1
+Init: D3D Driver: PixelShaderVersion=1.3
+Init: D3D Driver: AGP support detected
+Init: D3D Driver (IG_SHADER): PixelShaderVersion = min(13,13) = 13
+Init: D3D Driver (IG_SHADER): VertexShaderVersion = 11
+Init: D3D Driver (IG_SHADER): SupportsVertexShaders = 1
+Init: D3D Driver (IG_SHADER): SupportsPixelShaders = 1
+Init: D3D Driver (IG_SHADER): MaxVertexShaderConst = 96
+Init: D3D Driver (IG_SHADER): VertexShaderConstants TotalSize = 96
+Init: D3D Driver (IG_SHADER): PixelShaderConstants TotalSize = 8
+Init: D3D Driver: Using w- pixel fog
+Init: D3D Driver: Supports trilinear
+Init: D3D Driver: Supports BLENDDIFFUSEALPHA
+Init: D3D Driver: Supports LOD biasing
+Init: D3D Driver: Supports Z biasing
+Init: D3D Driver: Supports D3DTOP_ADDSIGNED2X
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAP
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE
+Init: D3D Driver: Supports D3DTOP_DOTPRODUCT3
+Init: D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR
+Init: D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA
+Init: Unreal Engine Direct3D support - internal version: SB3
+Init: D3D Device: szDriver=nv4_disp.dll
+Init: D3D Device: szDescription=NVIDIA GeForce4 Ti 4200
+Init: D3D Device: wProduct=6
+Init: D3D Device: wVersion=14
+Init: D3D Device: wSubVersion=10
+Init: D3D Device: wBuild=5216
+Init: D3D Device: dwVendorId=4318
+Init: D3D Device: dwDeviceId=595
+Init: D3D Device: dwSubSysId=-2143088573
+Init: D3D Device: dwRevision=162
+Init: D3D Detected: NVidia video card
+Init: D3D Device: using cubemaps [with mipmaps]
+Log: Updating Revision level for BFFDD33F4A5C63A0A56AE5A2595F85AE to 0
+Log: Updating Revision level for EB62ED124957B916A9837F9095D0E411 to 0
+Log: Updating Revision level for B13750DF4BD9106AF38CC1B17B30E07E to 0
+Log: Updating Revision level for A96F272642301CEA1F755E8484FD357B to 0
+Log: Updating MD5 for CFA936B44A8ABD128D8265977B4FE977 [92725ebee4bd9b2ca201fb421154bac4629b19eeb7f164d1ff8f17cf3bd0de4f]
+Log: Updating Revision level for C8A256D442AF5861C35FE5BEC70B6A37 to 0
+Log: Updating Revision level for DB60F1D94D6AB2F1AE4A21958D4B453C to 0
+Log: Updating Revision level for ECCAC9104D1FC7DA340FBEABD9B42694 to 0
+Log: Updating Revision level for 76B432A24F22275A7DA4BE9BF273B1E3 to 0
+Log: Updating Revision level for F218B3B9433BD49D31D29696D86E65F4 to 0
+Log: Updating Revision level for B1B11B7F48D537602538338EEA246424 to 0
+Log: Updating Revision level for 2C75397B4A4B4B6F48ABBC9943561187 to 0
+Log: Updating Revision level for 321C619A4441265753972C97947BE8D6 to 0
+Log: Updating Revision level for 597C1FC24106893F5C335B93EDA2E989 to 0
+Log: Updating MD5 for 3CC85DA44AF506AD6B8B2D9FA8610009 [fe65a2a407d2212cc4e302bcf197a0ecb9656fd0c9f9e248c7c4e2dfa121d79f]
+Log: Updating Revision level for 20B9E7B945AA42226544EEA537154979 to 0
+Log: Updating Revision level for E79DA6A2438DD8B045A3D49A53168BA9 to 0
+Log: Updating Revision level for 866CE227475955400F2DE78C01D09E9D to 0
+Log: Updating Revision level for A0F2ED4F42BA959A9DEF18883C385559 to 0
+Log: Updating Revision level for B4773F9A4C1A765DB6B667886DBEE797 to 0
+Log: Updating Revision level for DD202BCC4AF93875102F06B6115814B8 to 0
+Log: Updating MD5 for 3F685248434883FC1D7657A35D2D946F [bd8760cddc9bb6ec0ef1536fb36c8a5fc644593c3fb9d007f5913155f412e8ee]
+Log: Updating MD5 for A76092F8415F33090BC2EC89E540FC4F [bd8760cddc9bb6ec0ef1536fb36c8a5fc644593c3fb9d007f5913155f412e8eed2077e2608b0b65b33fbe741a08d7c91]
+Log: LocalizedSoundPathRoot for language 'int' is 'int\Sounds\'
+Init: ALAudio: no OpenAL devices found.
+Error: Audio initialization failed.
+DevMassive: ADCLIENT: MMT_Initialize swat_4_pc_na: MMT_SUCCESS
+Log: LoadMap: Entry
+Log: [dkaplan]: URL.Map = Entry
+Log: ****************************************************
+Log:  Beginning level load: 'Entry'
+Log: ****************************************************
+Log: ****************************************************
+Log:  Finished level load in 0.043 seconds
+Log: ****************************************************
+Log: Building Collision Octree...
+Log: Finished Building Collision Octree
+Log: Game class is 'GameInfo'
+Log: Level is Level Entry.myLevel
+Log: *** WARNING - PATHS MAY NOT BE VALID ***
+Log: Bringing Level Entry.myLevel up for play (0)...
+Log: ---------- IsTheEntryLevel = 1, GameEngine=0x15C2800, GameEngine->GEntry=0x0, GameEngine->GEntry->GetLevelInfo()=0x0, current LevelInfo=0x9FD6900
+VoiceChat: GameInfo0 VoiceReplicationInfo created: None
+DevMassive: ADCLIENT: Level has empty ZoneName.
+DevMassive: ADCLIENT: Zone could not be downloaded, no ads will be served.
+Log: Loadmap executed in 0.21 seconds. (0.09 Verify) (0.04 Load) (0.06 Actor Init)
+Log: UGameEngine::Init() ... CommandLine = -windowed
+Log: Browse: Entry.s4m?Name=Player?Class=SwatGame.SwatPlayer?team=255
+Log: LoadMap: Entry.s4m?Name=Player?Class=SwatGame.SwatPlayer?team=255
+Log: [dkaplan]: URL.Map = Entry.s4m
+Log: ****************************************************
+Log:  Beginning level load: 'Entry.s4m'
+Log: ****************************************************
+Log: ****************************************************
+Log:  Finished level load in 0.002 seconds
+Log: ****************************************************
+DevMassive: ADCLIENT: Level has empty ZoneName.
+DevMassive: ADCLIENT: Zone could not be downloaded, no ads will be served.
+Log: Loadmap executed in 0.03 seconds. (0.00 Verify) (0.00 Load) (0.01 Actor Init)
+Warning: Failed to load 'Class None.ini:Engine.Engine.DefaultPlayerMenu': Can't find 'ini:Engine.Engine.DefaultPlayerMenu' in configuration file
+IMaster: Could not load interaction [ini:Engine.Engine.DefaultPlayerMenu]
+Log: SwatEntryPlayerController0 got player WindowsViewport0
+Init: Input system initialized for WindowsViewport0
+Log: Bound to SwatGui.dll
+Log: Bound to IpDrv.dll
+Log: PC GUI System Initialized
+Warning: Failed to load 'Texture gui_tex.resetbutton': Failed to find object 'Texture gui_tex.resetbutton'
+Warning: Failed to load 'Texture gui_tex.resetbutton': Failed to find object 'Texture gui_tex.resetbutton'
+Warning: Failed to load 'Texture gui_tex.resetbutton': Failed to find object 'Texture gui_tex.resetbutton'
+Warning: Failed to load 'Texture gui_tex.resetbutton': Failed to find object 'Texture gui_tex.resetbutton'
+Warning: Failed to load 'Texture gui_tex.resetbutton': Failed to find object 'Texture gui_tex.resetbutton'
+Log: WM_SETFOCUS was called
+Log: WM_KILLFOCUS was called
+Log: WM_SETFOCUS was called
+Log: Opened viewport
+Log: Enter SetRes: 800x600 Fullscreen 1
+Log: Flushing viewport 0xA075A00
+Log: Finished flushing viewport 0xA075A00 in 0.007 seconds
+Init: Best-match display mode: 800x600x32@85
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Creating device
+Log: xD3D9Helper::Init (QuadEmulation)
+Init: D3D Driver: CreateDevice: will use hardware transform and lighting.
+Init: D3D Driver: CreateDevice: will use hardware vertex processing
+Log: Creating IME context.
+Log: OS doesn't support IME.
+Log: Initializing COM and the Speech API.
+Log: Failed to create a speech recognition engine.
+Log: Failed to initialize the Speech API
+Init: Game engine initialized in 39.826 seconds
+Log: Startup time: 47.502000 seconds
+Log: Creating Campaign.ini...
+Log: CreateLocalizationPackage begining...
+Log: WM_KILLFOCUS was called
+Log: WM_KILLFOCUS was called
+Init: EffectsSystem Configuration: ..\system\VisualEffectsConfig.u is up-to-date.
+Log: [EFFECTS SYSTEM] The VisualEffectsSubsystem's configuration package is up-to-date.
+Log: Collecting garbage
+Log: Purging garbage
+Log: 50933.0ms Unloading: Package GIGN
+Log: 50935.0ms Unloading: Package GIGN_OfficerTex
+Log: 50936.0ms Unloading: Package suspect1
+Log: 50938.0ms Unloading: Package Suspect1_officerTex
+Log: 50940.0ms Unloading: Package suspect2
+Log: 50941.0ms Unloading: Package Suspect2_officerTex
+Log: 50943.0ms Unloading: Package Taiwan
+Log: 50945.0ms Unloading: Package Taiwan_OfficerTex
+Log: 50946.0ms Unloading: Package SwatObjectives
+Log: Garbage: objects: 42203->41647; refs: 449633
+Log: VisualEffectsSubsystem created.
+Init: EffectsSystem Configuration: ..\system\SoundEffectsConfig.u is up-to-date.
+Log: [EFFECTS SYSTEM] The SoundEffectsSubsystem's configuration package is up-to-date.
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 71118->57926; refs: 532821
+Log: SoundEffectsSubsystem created.
+Log: Deleting ALAudio.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\ALAudio.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\ALAudio.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\ALAudio.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\ALAudio.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\ALAudio.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Core.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Core.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Core.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Core.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Core.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Core.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting CreateLocalizationPackage.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\CreateLocalizationPackage.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\CreateLocalizationPackage.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\CreateLocalizationPackage.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\CreateLocalizationPackage.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\CreateLocalizationPackage.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting D3DDrv.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\D3DDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\D3DDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\D3DDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\D3DDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\D3DDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Editor.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Editor.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Editor.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Editor.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Editor.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Editor.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Engine.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Engine.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Engine.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Engine.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Engine.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Engine.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting IpDrv.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\IpDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\IpDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\IpDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\IpDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\IpDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting ObjectiveSpecs.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\ObjectiveSpecs.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\ObjectiveSpecs.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\ObjectiveSpecs.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\ObjectiveSpecs.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\ObjectiveSpecs.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting ScriptCompiler.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\ScriptCompiler.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\ScriptCompiler.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\ScriptCompiler.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\ScriptCompiler.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\ScriptCompiler.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Startup.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Startup.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Startup.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Startup.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Startup.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Startup.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Swat4X.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Swat4X.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Swat4X.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Swat4X.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Swat4X.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Swat4XDedicatedServer.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Swat4XDedicatedServer.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Swat4XDedicatedServer.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Swat4XDedicatedServer.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Swat4XDedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting SwatEd.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatEd.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatEd.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\SwatEd.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatEd.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatEd.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting UWeb.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\UWeb.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\UWeb.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\UWeb.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\UWeb.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\UWeb.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Window.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Window.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Window.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Window.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Window.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Window.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting WinDrv.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\WinDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\WinDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\WinDrv.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\WinDrv.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\WinDrv.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Swat4.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Swat4.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Swat4.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Swat4.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Swat4.int'. Error = 0x2 (The system cannot find the file specified.)
+Log: Deleting Swat4DedicatedServer.int
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Builds\Release\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Swat4DedicatedServer.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\Swat4DedicatedServer.int'. Error = 0x5 (Access is denied.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Swat4DedicatedServer.int'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Swat4DedicatedServer.int'. Error = 0x2 (The system cannot find the file specified.)
+Warning: Failed to load 'Material MaleSuitTex.MS_FleshI': Failed to find object 'Material MaleSuitTex.MS_FleshI'
+Warning: Failed to load 'Material MaleSuitTex.MS_SecurityClothesA': Failed to find object 'Material MaleSuitTex.MS_SecurityClothesA'
+Warning: Failed to load 'Class SwatGui.SwatScorePopupMenu': Failed to find object 'Class SwatGui.SwatScorePopupMenu'
+Warning: Failed to load 'Texture gui_tex2.audio_Processing': Failed to find object 'Texture gui_tex2.audio_Processing'
+Warning: Failed to load 'Texture gui_tex2.audio_Processing': Failed to find object 'Texture gui_tex2.audio_Processing'
+Warning: Failed to load 'Texture gui_tex2.audio_Processing': Failed to find object 'Texture gui_tex2.audio_Processing'
+Warning: Failed to load 'Class SwatGui.Custom_Timed': Failed to find object 'Class SwatGui.Custom_Timed'
+Log: Localizing LevelSummary objects...
+Log:    MP-ABomb
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ABomb.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ABomb.int
+Log:    MP-ArmsDeal
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ArmsDeal.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ArmsDeal.int
+Log:    MP-AutoGarage
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-AutoGarage.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-AutoGarage.int
+Log:    MP-Casino
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Casino.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Casino.int
+Log:    MP-ConvenienceStore
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ConvenienceStore.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-ConvenienceStore.int
+Log:    MP-Courthouse
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Courthouse.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Courthouse.int
+Log:    MP-DNA
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-DNA.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-DNA.int
+Log:    MP-FairfaxResidence
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-FairfaxResidence.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-FairfaxResidence.int
+Log:    MP-Foodwall
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Foodwall.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Foodwall.int
+Log:    MP-Hospital
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Hospital.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Hospital.int
+Log:    MP-Hotel
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Hotel.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Hotel.int
+Log:    MP-JewelryHeist
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-JewelryHeist.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-JewelryHeist.int
+Log:    MP-MeatBarn
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-MeatBarn.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-MeatBarn.int
+Log:    MP-MeatBarnTest
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-MeatBarnTest.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-MeatBarnTest.int
+Log:    MP-PowerPlant
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-PowerPlant.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-PowerPlant.int
+Log:    MP-RedLibrary
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-RedLibrary.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-RedLibrary.int
+Log:    MP-Tenement
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Tenement.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Tenement.int
+Log:    MP-TenementTEST
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-TenementTEST.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-TenementTEST.int
+Log:    MP-Training
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Training.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Training.int
+Log:    SP-ABomb
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ABomb.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ABomb.int
+Log:    SP-ArmsDeal
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ArmsDeal.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ArmsDeal.int
+Log:    SP-AutoGarage
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-AutoGarage.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-AutoGarage.int
+Log:    SP-Casino
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Casino.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Casino.int
+Log:    SP-ConvenienceStore
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ConvenienceStore.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-ConvenienceStore.int
+Log:    SP-DNA
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-DNA.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-DNA.int
+Log:    SP-FairfaxResidence
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-FairfaxResidence.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-FairfaxResidence.int
+Log:    SP-FoodWall
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-FoodWall.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-FoodWall.int
+Log:    SP-Hospital
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Hospital.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Hospital.int
+Log:    SP-Hotel
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Hotel.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Hotel.int
+Log:    SP-JewelryHeist
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-JewelryHeist.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-JewelryHeist.int
+Log:    SP-RedLibrary
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-RedLibrary.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-RedLibrary.int
+Log:    SP-Tenement
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Tenement.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Tenement.int
+Log:    SP-Training
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Training.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Training.int
+Log:    MP-Arcade
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Arcade.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Arcade.int
+Log:    MP-Backstage
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Backstage.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Backstage.int
+Log:    MP-DrugLab
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-DrugLab.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-DrugLab.int
+Log:    MP-HalfwayHouse
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-HalfwayHouse.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-HalfwayHouse.int
+Log:    MP-Office
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Office.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Office.int
+Log:    MP-Subway
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Subway.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Subway.int
+Log:    MP-Warehouse
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Warehouse.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\MP-Warehouse.int
+Log:    SP-Arcade
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Arcade.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Arcade.int
+Log:    SP-Backstage
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Backstage.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Backstage.int
+Log:    SP-DrugLab
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-DrugLab.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-DrugLab.int
+Log:    SP-HalfwayHouse
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-HalfwayHouse.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-HalfwayHouse.int
+Log:    SP-Office
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Office.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Office.int
+Log:    SP-Subway
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Subway.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Subway.int
+Log:    SP-Warehouse
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Warehouse.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SP-Warehouse.int
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatGame.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatGame.int
+Warning: Failed to load 'SwatGame2': Can't find file 'SwatGame2'
+Warning: Failed loading package: Can't find file 'SwatGame2'
+Log: Failed loading package: Can't find file 'SwatGame2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatGame2': Can't find file 'SwatGame2'
+Warning: Failed loading package: Can't find file 'SwatGame2'
+Log: Failed loading package: Can't find file 'SwatGame2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatGame2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatGame2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatGame2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatGame2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatGame2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatGame2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatGUI.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatGUI.int
+Warning: Failed to load 'SwatGUI2': Can't find file 'SwatGUI2'
+Warning: Failed loading package: Can't find file 'SwatGUI2'
+Log: Failed loading package: Can't find file 'SwatGUI2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatGUI2': Can't find file 'SwatGUI2'
+Warning: Failed loading package: Can't find file 'SwatGUI2'
+Log: Failed loading package: Can't find file 'SwatGUI2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatGUI2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatGUI2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatGUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatGUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatGUI2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\GUI.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\GUI.int
+Warning: Failed to load 'GUI2': Can't find file 'GUI2'
+Warning: Failed loading package: Can't find file 'GUI2'
+Log: Failed loading package: Can't find file 'GUI2'
+Log: LoadPackage failed
+Warning: Failed to load 'GUI2': Can't find file 'GUI2'
+Warning: Failed loading package: Can't find file 'GUI2'
+Log: Failed loading package: Can't find file 'GUI2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\GUI2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\GUI2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\GUI2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\GUI2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\GUI2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\GUI2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses.int
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatDesignerClasses.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatDesignerClasses.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses2.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses2.int
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatDesignerClasses2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatDesignerClasses2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatDesignerClasses2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatObjectives.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatObjectives.int
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatObjectives.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatObjectives.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatObjectives.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatObjectives.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatObjectives.xxx' (2)
+Warning: Failed to load 'SwatObjectives2': Can't find file 'SwatObjectives2'
+Warning: Failed loading package: Can't find file 'SwatObjectives2'
+Log: Failed loading package: Can't find file 'SwatObjectives2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatObjectives2': Can't find file 'SwatObjectives2'
+Warning: Failed loading package: Can't find file 'SwatObjectives2'
+Log: Failed loading package: Can't find file 'SwatObjectives2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatObjectives2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatObjectives2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatObjectives2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatObjectives2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatObjectives2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProcedures.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProcedures.int
+Warning: Failed to load 'SwatProcedures2': Can't find file 'SwatProcedures2'
+Warning: Failed loading package: Can't find file 'SwatProcedures2'
+Log: Failed loading package: Can't find file 'SwatProcedures2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatProcedures2': Can't find file 'SwatProcedures2'
+Warning: Failed loading package: Can't find file 'SwatProcedures2'
+Log: Failed loading package: Can't find file 'SwatProcedures2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatProcedures2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatProcedures2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatProcedures2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatProcedures2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatProcedures2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatAmmo.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatAmmo.int
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatAmmo2.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatAmmo2.int
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProtectiveEquipment.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProtectiveEquipment.int
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProtectiveEquipment2.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatProtectiveEquipment2.int
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatSimpleEquipment.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatSimpleEquipment.int
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatSimpleEquipment.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment.xxx' (2)
+Warning: Failed to load 'SwatSimpleEquipment2': Can't find file 'SwatSimpleEquipment2'
+Warning: Failed loading package: Can't find file 'SwatSimpleEquipment2'
+Log: Failed loading package: Can't find file 'SwatSimpleEquipment2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatSimpleEquipment2': Can't find file 'SwatSimpleEquipment2'
+Warning: Failed loading package: Can't find file 'SwatSimpleEquipment2'
+Log: Failed loading package: Can't find file 'SwatSimpleEquipment2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatSimpleEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatSimpleEquipment2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatEquipment.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SwatEquipment.int
+Warning: Failed to load 'SwatEquipment2': Can't find file 'SwatEquipment2'
+Warning: Failed loading package: Can't find file 'SwatEquipment2'
+Log: Failed loading package: Can't find file 'SwatEquipment2'
+Log: LoadPackage failed
+Warning: Failed to load 'SwatEquipment2': Can't find file 'SwatEquipment2'
+Warning: Failed loading package: Can't find file 'SwatEquipment2'
+Log: Failed loading package: Can't find file 'SwatEquipment2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SwatEquipment2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SwatEquipment2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatEquipment2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SwatEquipment2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SwatEquipment2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SoundEffectsConfig.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\SoundEffectsConfig.int
+Warning: Failed to load 'SoundEffectsConfig2': Can't find file 'SoundEffectsConfig2'
+Warning: Failed loading package: Can't find file 'SoundEffectsConfig2'
+Log: Failed loading package: Can't find file 'SoundEffectsConfig2'
+Log: LoadPackage failed
+Warning: Failed to load 'SoundEffectsConfig2': Can't find file 'SoundEffectsConfig2'
+Warning: Failed loading package: Can't find file 'SoundEffectsConfig2'
+Log: Failed loading package: Can't find file 'SoundEffectsConfig2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\SoundEffectsConfig2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\SoundEffectsConfig2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\SoundEffectsConfig2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\IGSoundEffectsSubsystem.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\IGSoundEffectsSubsystem.int
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\IGSoundEffectsSubsystem.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem.xxx' (2)
+Warning: Failed to load 'IGSoundEffectsSubsystem2': Can't find file 'IGSoundEffectsSubsystem2'
+Warning: Failed loading package: Can't find file 'IGSoundEffectsSubsystem2'
+Log: Failed loading package: Can't find file 'IGSoundEffectsSubsystem2'
+Log: LoadPackage failed
+Warning: Failed to load 'IGSoundEffectsSubsystem2': Can't find file 'IGSoundEffectsSubsystem2'
+Warning: Failed loading package: Can't find file 'IGSoundEffectsSubsystem2'
+Log: Failed loading package: Can't find file 'IGSoundEffectsSubsystem2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\IGSoundEffectsSubsystem2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\IGSoundEffectsSubsystem2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\GIGN.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\GIGN.int
+Warning: Failed to load 'GIGN2': Can't find file 'GIGN2'
+Warning: Failed loading package: Can't find file 'GIGN2'
+Log: Failed loading package: Can't find file 'GIGN2'
+Log: LoadPackage failed
+Warning: Failed to load 'GIGN2': Can't find file 'GIGN2'
+Warning: Failed loading package: Can't find file 'GIGN2'
+Log: Failed loading package: Can't find file 'GIGN2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\GIGN2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\GIGN2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\GIGN2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\GIGN2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\GIGN2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\GIGN2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\suspect1.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\suspect1.int
+Warning: Failed to load 'suspect12': Can't find file 'suspect12'
+Warning: Failed loading package: Can't find file 'suspect12'
+Log: Failed loading package: Can't find file 'suspect12'
+Log: LoadPackage failed
+Warning: Failed to load 'suspect12': Can't find file 'suspect12'
+Warning: Failed loading package: Can't find file 'suspect12'
+Log: Failed loading package: Can't find file 'suspect12'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\suspect12.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\suspect12.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\suspect12.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\suspect12.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\suspect12.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\suspect12.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\suspect2.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\suspect2.int
+Warning: Failed to load 'suspect22': Can't find file 'suspect22'
+Warning: Failed loading package: Can't find file 'suspect22'
+Log: Failed loading package: Can't find file 'suspect22'
+Log: LoadPackage failed
+Warning: Failed to load 'suspect22': Can't find file 'suspect22'
+Warning: Failed loading package: Can't find file 'suspect22'
+Log: Failed loading package: Can't find file 'suspect22'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\suspect22.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\suspect22.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\suspect22.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\suspect22.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\suspect22.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\suspect22.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\Taiwan.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\Taiwan.int
+Warning: Failed to load 'Taiwan2': Can't find file 'Taiwan2'
+Warning: Failed loading package: Can't find file 'Taiwan2'
+Log: Failed loading package: Can't find file 'Taiwan2'
+Log: LoadPackage failed
+Warning: Failed to load 'Taiwan2': Can't find file 'Taiwan2'
+Warning: Failed loading package: Can't find file 'Taiwan2'
+Log: Failed loading package: Can't find file 'Taiwan2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\Taiwan2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\Taiwan2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\Taiwan2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\Taiwan2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\Taiwan2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\Taiwan2.xxx' (2)
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\transient.xxx
+Log: Generated c:\perforce\Swat4ExpVUG\Builds\Release\transient.int
+Warning: Failed to load 'transient2': Can't find file 'transient2'
+Warning: Failed loading package: Can't find file 'transient2'
+Log: Failed loading package: Can't find file 'transient2'
+Log: LoadPackage failed
+Warning: Failed to load 'transient2': Can't find file 'transient2'
+Warning: Failed loading package: Can't find file 'transient2'
+Log: Failed loading package: Can't find file 'transient2'
+Log: LoadPackage failed
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Builds\Release\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Builds\Release\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\System\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Scenarios\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Maps\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Movies\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\LocalizedContent\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Sounds\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\CustomSkins\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\ContentExpansion\Test\Maps\.\LocalizationFiles\transient2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\System\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\System\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Scenarios\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Scenarios\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Maps\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Maps\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\LocalizedContent\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\LocalizedContent\.\LocalizationFiles\transient2.xxx' (3)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Sounds\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Sounds\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Movies\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Movies\.\LocalizationFiles\transient2.xxx' (2)
+Warning: Error deleting file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\transient2.xxx'. Error = 0x3 (The system cannot find the path specified.)
+Warning: Error moving file 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\transient2.xxx' to 'c:\perforce\Swat4ExpVUG\Content\Test\Maps\.\LocalizationFiles\transient2.xxx' (2)
+Log: Viewport WindowsViewport0: WM_DisplayChange, XRes: 1280, YRes: 1024
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Scripting.dll
+Log: Unbound to Engine.dll
+Log: Unbound to SwatGame.dll
+Log: Unbound to RWOSupport.dll
+Log: Unbound to Tyrion.dll
+Log: Unbound to GUI.dll
+Log: Unbound to SwatAICommon.dll
+Log: Unbound to AICommon.dll
+Log: Unbound to SwatAIAwareness.dll
+Log: Unbound to Editor.dll
+Log: Unbound to ALAudio.dll
+Log: Unbound to ScriptCompiler.dll
+Log: 316112.0ms Unloading: Package SwatGame
+Log: 316115.0ms Unloading: Package Core
+Log: 316116.0ms Unloading: Package Engine
+Log: 316119.0ms Unloading: Package Engine_res
+Log: 316119.0ms Unloading: Package SWAT4editorTex
+Log: 316119.0ms Unloading: Package SwatGear_sm
+Log: 316119.0ms Unloading: Package SwatGearTex
+Log: 316120.0ms Unloading: Package SWAT1stPersonTex
+Log: 316150.0ms Unloading: Package SwatFXtex
+Log: 316172.0ms Unloading: Package MaleGang1Tex
+Log: 316173.0ms Unloading: Package HUD
+Log: 316173.0ms Unloading: Package EditorSprites
+Log: 316173.0ms Unloading: Package FP_Hand2
+Log: Unbound to IGEffectsSystem.dll
+Log: 316212.0ms Unloading: Package IGEffectsSystem
+Log: 316212.0ms Unloading: Package Editor_res
+Log: 316212.0ms Unloading: Package Hotel_sm
+Log: 316213.0ms Unloading: Package Hotel
+Log: 316213.0ms Unloading: Package MetalShaders
+Log: 316213.0ms Unloading: Package Repo_Tex
+Log: 316213.0ms Unloading: Package Arms_Tex
+Log: 316213.0ms Unloading: Package Silence_Tex
+Log: 316214.0ms Unloading: Package office_Tex
+Log: 316214.0ms Unloading: Package DNA_tex
+Log: 316214.0ms Unloading: Package VIP_Tex
+Log: 316214.0ms Unloading: Package HotelFXtex
+Log: 316214.0ms Unloading: Package barbershop_tex
+Log: 316214.0ms Unloading: Package SwatAICommon
+Log: 316217.0ms Unloading: Package Tyrion
+Log: 316217.0ms Unloading: Package AICommon
+Log: 316217.0ms Unloading: Package SwatAIAwareness
+Log: 316217.0ms Unloading: Package GUI
+Log: 316218.0ms Unloading: Package gui_tex
+Log: 316218.0ms Unloading: Package Scripting
+Log: Unbound to IGSoundEffectsSubsystem.dll
+Log: 316219.0ms Unloading: Package IGSoundEffectsSubsystem
+Log: 316219.0ms Unloading: Package IGEffectsSystem_EditorTextures
+Log: 316219.0ms Unloading: Package RWOSupport
+Log: 316219.0ms Unloading: Package Gameplay
+Log: 316219.0ms Unloading: Package mp_OfficerTex
+Log: 316219.0ms Unloading: Package Doors_sm
+Log: 316220.0ms Unloading: Package doors_Tex
+Log: 316220.0ms Unloading: Package Paradise_Tex
+Log: 316220.0ms Unloading: Package Tenement_Tex
+Log: 316220.0ms Unloading: Package train
+Log: 316220.0ms Unloading: Package Hosp
+Log: 316221.0ms Unloading: Package RedLibrary_Tex
+Log: 316221.0ms Unloading: Package Jewel_Tex
+Log: 316221.0ms Unloading: Package bullseye_Tex
+Log: 316221.0ms Unloading: Package Bar_Tex
+Log: 316221.0ms Unloading: Package Power_Tex
+Log: 316222.0ms Unloading: Package SWATMaleAnimation2
+Log: 316222.0ms Unloading: Package SWATofficerTex
+Log: 316222.0ms Unloading: Package maleMafiaTex
+Log: 316244.0ms Unloading: Package maleHomelessTex
+Log: 316244.0ms Unloading: Package MaleCasual3Tex
+Log: 316244.0ms Unloading: Package MaleSuitTex
+Log: 316245.0ms Unloading: Package LeoMelTextureSet
+Log: 316245.0ms Unloading: Package SWATinstructorTex
+Log: 316266.0ms Unloading: Package SWATheavyTex
+Log: 316266.0ms Unloading: Package MaleCasual2Tex
+Log: 316267.0ms Unloading: Package CASMtex
+Log: 316267.0ms Unloading: Package MaleBarberTex
+Log: 316267.0ms Unloading: Package MaleChubbyTex
+Log: 316268.0ms Unloading: Package MaleCasual4Tex
+Log: 316268.0ms Unloading: Package MaleJanitorTextureSet
+Log: 316268.0ms Unloading: Package MaleCasualArmorTex
+Log: 316269.0ms Unloading: Package SWATnoArmourTex
+Log: 316269.0ms Unloading: Package MaleCasual1Tex
+Log: 316269.0ms Unloading: Package CameraEffectsTex
+Log: 316269.0ms Unloading: Package Voting
+Log: 316269.0ms Unloading: Package ProgrammerTestObjectsTex
+Log: 316269.0ms Unloading: Package arms_sm
+Log: 316292.0ms Unloading: Package Outdoors_Tex
+Log: 316293.0ms Unloading: Package UWindow_res
+Log: 316293.0ms Unloading: Package CoopArrow
+Log: 316293.0ms Unloading: Package gui_tex2
+Log: 316319.0ms Unloading: Package SWATDoubleDoorAnimations
+Log: 316319.0ms Unloading: Package SWATDoorAnimation
+Log: 316319.0ms Unloading: Package SwatGear2_sm
+Log: 316333.0ms Unloading: Package SwatGear2Tex
+Log: 316333.0ms Unloading: Package druglab
+Log: 316333.0ms Unloading: Package SwatFX2tex
+Log: 316336.0ms Unloading: Package SwatEquipmentModels2
+Log: 316337.0ms Unloading: Package Coronas
+Exit: Game engine shut down
+Log: Unbound to IGVisualEffectsSubsystem.dll
+Log: 316339.0ms Unloading: Package IGVisualEffectsSubsystem
+Log: Unbound to SwatEquipment.dll
+Log: 316341.0ms Unloading: Package SwatEquipment
+Log: 316341.0ms Unloading: Package SwatProtectiveEquipment2
+Log: 316345.0ms Unloading: Package SwatProcedures
+Log: 316347.0ms Unloading: Package SwatProgrammerSampleClasses
+Log: 316349.0ms Unloading: Package FP_AR_15SD
+Log: 316350.0ms Unloading: Package SWAT1stPersonTex2
+Log: 316350.0ms Unloading: Package fp_deserteagle
+Log: 316350.0ms Unloading: Package fp_fnp90
+Log: 316350.0ms Unloading: Package FP_HK69
+Log: 316350.0ms Unloading: Package fp_Stinger
+Log: 316367.0ms Unloading: Package FP_taser
+Log: 316367.0ms Unloading: Package TaserWire
+Log: 316367.0ms Unloading: Package SWATmeshFX_sm
+Log: 316368.0ms Unloading: Package Con_Tex
+Log: 316369.0ms Unloading: Package Editor
+Log: Unbound to WinDrv.dll
+Log: Flushing viewport 0xA075A00
+Log: Finished flushing viewport 0xA075A00 in 0.017 seconds
+Log: Flushing viewport 0x0
+Log: Finished flushing viewport 0x0 in 0.019 seconds
+Exit: Windows client shut down
+Log: Unbound to D3DDrv.dll
+Log: 316408.0ms Unloading: Package Packages
+DevMassive: ADCLIENT: MMT_DeInitialize
+Log: 316536.0ms Unloading: Package Entry
+Log: Unbound to SwatGui.dll
+Log: 316537.0ms Unloading: Package SwatGui
+Log: Unbound to IpDrv.dll
+Log: 316538.0ms Unloading: Package IpDrv
+Log: 316539.0ms Unloading: Package FP_C2charge
+Log: 316541.0ms Unloading: Package FP_mp5SMG
+Log: 316541.0ms Unloading: Package FP_mp5SMGsilenced
+Log: 316541.0ms Unloading: Package FP_UMPsmg
+Log: 316541.0ms Unloading: Package FP_M4A1mg
+Log: 316541.0ms Unloading: Package FP_G36k
+Log: 316542.0ms Unloading: Package FP_m4super90sg
+Log: 316542.0ms Unloading: Package FP_NovaPumpShotgun
+Log: 316542.0ms Unloading: Package NovaPump_ThirdPerson
+Log: 316542.0ms Unloading: Package SwatDesignerClasses
+Log: 316543.0ms Unloading: Package FP_paintball
+Log: 316543.0ms Unloading: Package SwatAmmo
+Log: 316543.0ms Unloading: Package SwatAmmo2
+Log: 316544.0ms Unloading: Package SwatProjectile
+Log: 316544.0ms Unloading: Package swatmeshfx2_sm
+Log: 316545.0ms Unloading: Package FP_coltHG
+Log: 316545.0ms Unloading: Package Colt1911FL_ThirdPerson
+Log: 316545.0ms Unloading: Package FP_9mmPistol
+Log: 316545.0ms Unloading: Package NineMMpistol_ThirdPerson
+Log: 316545.0ms Unloading: Package FP_DoorWedge
+Log: 316546.0ms Unloading: Package scripted_tex
+Log: 316546.0ms Unloading: Package FP_Optiwand
+Log: 316546.0ms Unloading: Package Optiwand_ThirdPerson
+Log: 316546.0ms Unloading: Package FP_Pepperspray
+Log: 316546.0ms Unloading: Package FP_stingGrenade
+Log: 316546.0ms Unloading: Package FP_csGasGrenade
+Log: 316547.0ms Unloading: Package FP_flashbangGrenade
+Log: 316547.0ms Unloading: Package FP_BreachingSG
+Log: 316547.0ms Unloading: Package BreachingSG_ThirdPerson
+Log: 316547.0ms Unloading: Package SwatProtectiveEquipment
+Log: 316547.0ms Unloading: Package SWATMaleAnimation
+Log: 316547.0ms Unloading: Package CultLeaderTextureSet
+Log: 316548.0ms Unloading: Package MaleDoctorTex
+Log: 316548.0ms Unloading: Package FP_AK47
+Log: 316549.0ms Unloading: Package FP_Revolver
+Log: 316549.0ms Unloading: Package FP_uzi
+Log: 316549.0ms Unloading: Package FP_toolkit
+Log: 316550.0ms Unloading: Package FP_Handcuffs
+Log: 316550.0ms Unloading: Package FP_C2detonator
+Log: 316550.0ms Unloading: Package VisualEffectsConfig
+Log: 316550.0ms Unloading: Package SwatEffects
+Log: 316550.0ms Unloading: Package Silence_sm
+Log: 316583.0ms Unloading: Package SWATeffects2
+Log: 316585.0ms Unloading: Package SW_meta
+Log: 316618.0ms Unloading: Package SW_bounce
+Log: 316619.0ms Unloading: Package SWEXP_weapons
+Log: 316619.0ms Unloading: Package SW_hits
+Log: 316620.0ms Unloading: Package SWEXP_ambience
+Log: 316620.0ms Unloading: Package SW_objects
+Log: 316620.0ms Unloading: Package SW_vo
+Log: 316638.0ms Unloading: Package SW_ambients
+Log: 316638.0ms Unloading: Package SW_weapons
+Log: 316638.0ms Unloading: Package SW_bullets
+Log: 316638.0ms Unloading: Package SW_feet
+Log: 316638.0ms Unloading: Package SoundEffectsConfig
+Log: 316662.0ms Unloading: Package FP_glowstick
+Log: 316664.0ms Unloading: Package SWATcivilianGear_sm
+Log: 316665.0ms Unloading: Package SwatSimpleEquipment
+Log: 316665.0ms Unloading: Package PerimeterAnimatedMeshes
+Log: 316666.0ms Unloading: Package warehouse_tex
+Log: 316666.0ms Unloading: Package warehouse_sm
+Log: 316666.0ms Unloading: Package halfway_tex
+Log: 316666.0ms Unloading: Package halfwayhouse_sm
+Log: 316666.0ms Unloading: Package SwatDesignerClasses2
+Log: 316670.0ms Unloading: Package DeadPeople_sm
+Log: 316670.0ms Unloading: Package wall_Tex
+Log: 316670.0ms Unloading: Package wall_sm
+Log: 316670.0ms Unloading: Package MPbomb
+Log: 316671.0ms Unloading: Package TrainingAnimatedMeshes
+Log: 316672.0ms Unloading: Package Junk_sm
+Log: 316672.0ms Unloading: Package Paradise_sm
+Log: 316673.0ms Unloading: Package bullseye_sm
+Log: 316673.0ms Unloading: Package amc_Tex
+Log: 316673.0ms Unloading: Package dna_sm
+Log: 316674.0ms Unloading: Package Jewel_sm
+Log: 316674.0ms Unloading: Package Cars_sm
+Log: 316674.0ms Unloading: Package train_sm
+Log: 316674.0ms Unloading: Package Furniture_Tex
+Log: 316674.0ms Unloading: Package Barbershop_sm
+Log: 316674.0ms Unloading: Package Redlibrary_sm
+Log: 316675.0ms Unloading: Package VIP_sm
+Log: 316675.0ms Unloading: Package LocalizedTextures
+Log: 316675.0ms Unloading: Package Repo_sm
+Log: 316675.0ms Unloading: Package utility_sm
+Log: 316675.0ms Unloading: Package Cars
+Log: 316675.0ms Unloading: Package Hosp_sm
+Log: 316676.0ms Unloading: Package Tenement_sm
+Log: 316676.0ms Unloading: Package off_sm
+Log: 316676.0ms Unloading: Package Power_sm
+Log: 316676.0ms Unloading: Package Con_sm
+Log: 316676.0ms Unloading: Package mac_Tex
+Log: 316676.0ms Unloading: Package mac_sm
+Log: 316677.0ms Unloading: Package Junk_Tex
+Log: 316677.0ms Unloading: Package Bar_sm
+Log: 316677.0ms Unloading: Package Utility_Tex
+Log: 316693.0ms Unloading: Package Taiwan_OfficerTex
+Log: 316693.0ms Unloading: Package Taiwan
+Log: 316693.0ms Unloading: Package Suspect2_officerTex
+Log: 316693.0ms Unloading: Package suspect2
+Log: 316693.0ms Unloading: Package Suspect1_officerTex
+Log: 316693.0ms Unloading: Package suspect1
+Log: 316694.0ms Unloading: Package GIGN_OfficerTex
+Log: 316694.0ms Unloading: Package GIGN
+Log: 316695.0ms Unloading: Package _shawnTestPassiveAggressive
+Log: 316695.0ms Unloading: Package _shawnEnemyGunTest
+Log: 316695.0ms Unloading: Package WalkAwayTest
+Log: 316696.0ms Unloading: Package TrainingAI
+Log: 316696.0ms Unloading: Package toomanyhostages
+Log: 316696.0ms Unloading: Package tmcTraining
+Log: 316697.0ms Unloading: Package tmcSecureEvidenceTest
+Log: 316697.0ms Unloading: Package tmcRWOTest
+Log: 316698.0ms Unloading: Package tmcOfficeTest2
+Log: 316698.0ms Unloading: Package tmcOfficeTest
+Log: 316698.0ms Unloading: Package tmcObjectivesTest2
+Log: 316699.0ms Unloading: Package tmcObjectivesTest
+Log: 316699.0ms Unloading: Package tmcNoDoorTest
+Log: 316699.0ms Unloading: Package tmcEffectsTest
+Log: 316700.0ms Unloading: Package tmcDoorsTest
+Log: 316700.0ms Unloading: Package tmcBallisticsTest
+Log: 316701.0ms Unloading: Package ThrowTest
+Log: 316701.0ms Unloading: Package ThrowPointTest
+Log: 316701.0ms Unloading: Package ThreatenHostageTest
+Log: 316702.0ms Unloading: Package thebattleroom
+Log: 316703.0ms Unloading: Package Test-MachGunAI
+Log: 316703.0ms Unloading: Package Test-Compliance
+Log: 316703.0ms Unloading: Package tcohenReactiveAnimatedMeshTest
+Log: 316704.0ms Unloading: Package tcohenLatentTest
+Log: 316704.0ms Unloading: Package StairsPatrol
+Log: 316705.0ms Unloading: Package StairsExample
+Log: 316705.0ms Unloading: Package SpecialObjectivesTest
+Log: 316705.0ms Unloading: Package SP-TenementLightingTweaks
+Log: 316706.0ms Unloading: Package SP-RedLibraryOscTest
+Log: 316707.0ms Unloading: Package SP-DNARebuild
+Log: 316708.0ms Unloading: Package SP-ConvenienceStore_musiccrash
+Log: 316708.0ms Unloading: Package SP-Barber
+Log: 316708.0ms Unloading: Package soundprop
+Log: 316708.0ms Unloading: Package sniperandmirrortest
+Log: 316709.0ms Unloading: Package SilenceProp
+Log: 316709.0ms Unloading: Package silencemirrors
+Log: 316710.0ms Unloading: Package ShotgunTest
+Log: 316710.0ms Unloading: Package SeeThroughGlass
+Log: 316710.0ms Unloading: Package ScriptingTest
+Log: 316710.0ms Unloading: Package RegroupTest
+Log: 316710.0ms Unloading: Package RedLibraryMPNoDoors
+Log: 316711.0ms Unloading: Package RagdollTest
+Log: 316711.0ms Unloading: Package RadeonLightBug
+Log: 316711.0ms Unloading: Package pushawaytest
+Log: 316711.0ms Unloading: Package pushaway2
+Log: 316711.0ms Unloading: Package puddletest
+Log: 316712.0ms Unloading: Package ProjectorBugs
+Log: 316712.0ms Unloading: Package PatrolTest
+Log: 316712.0ms Unloading: Package PatrollingThroughDoors
+Log: 316712.0ms Unloading: Package PatrolBlockedDoorTest
+Log: 316712.0ms Unloading: Package officetest
+Log: 316712.0ms Unloading: Package Objective
+Log: 316713.0ms Unloading: Package NoPrimaryWeaponTest
+Log: 316713.0ms Unloading: Package MPTest3
+Log: 316713.0ms Unloading: Package MPTest2
+Log: 316713.0ms Unloading: Package MPTest
+Log: 316713.0ms Unloading: Package MPtcohenTest
+Log: 316714.0ms Unloading: Package MPOLDTenement
+Log: 316714.0ms Unloading: Package MPFoodWallDoorTest
+Log: 316714.0ms Unloading: Package MP-VIP_Tower_edit
+Log: 316715.0ms Unloading: Package MassiveAdClientTest
+Log: 316715.0ms Unloading: Package lotsaHostagesLight
+Log: 316715.0ms Unloading: Package lotsaHostagesC
+Log: 316715.0ms Unloading: Package lotsaHostagesB
+Log: 316715.0ms Unloading: Package lotsaHostages
+Log: 316715.0ms Unloading: Package lotsaGuysTest
+Log: 316715.0ms Unloading: Package lotsaGuys
+Log: 316716.0ms Unloading: Package lotsaDoors
+Log: 316716.0ms Unloading: Package LeanCoverTest
+Log: 316716.0ms Unloading: Package KarmaGunTest
+Log: 316716.0ms Unloading: Package justme
+Log: 316716.0ms Unloading: Package InvestigatorTest
+Log: 316716.0ms Unloading: Package IncapacitatedHostageTest
+Log: 316716.0ms Unloading: Package HostagePatrolTest
+Log: 316717.0ms Unloading: Package HostagePatrolBlockedDoorTest
+Log: 316717.0ms Unloading: Package highgroundtest
+Log: 316717.0ms Unloading: Package HavokTestWithCharacters
+Log: 316717.0ms Unloading: Package HavokTest
+Log: 316717.0ms Unloading: Package HavokConstraintsTest
+Log: 316717.0ms Unloading: Package GroupedClasses
+Log: 316717.0ms Unloading: Package GarageLightingTest
+Log: 316718.0ms Unloading: Package FXhaus_01
+Log: 316718.0ms Unloading: Package FoodWallBarberConvenience
+Log: 316718.0ms Unloading: Package FoodWallBarber
+Log: 316719.0ms Unloading: Package FleeTest
+Log: 316719.0ms Unloading: Package FlashLightRoom
+Log: 316719.0ms Unloading: Package eric_streamtest
+Log: 316719.0ms Unloading: Package eric_nonnativelooptest
+Log: 316719.0ms Unloading: Package eric_musictest
+Log: 316719.0ms Unloading: Package eric_2dsoundtest
+Log: 316719.0ms Unloading: Package EffectsSystemTest_SoundSpecific
+Log: 316720.0ms Unloading: Package DoubleDoors
+Log: 316720.0ms Unloading: Package DNAmpTestNoDoors
+Log: 316720.0ms Unloading: Package DebugAimTest
+Log: 316720.0ms Unloading: Package CoverTest2
+Log: 316720.0ms Unloading: Package CoverTest
+Log: 316721.0ms Unloading: Package CoopIncapacitatedTest
+Log: 316721.0ms Unloading: Package CoopClearTestUnarmed
+Log: 316721.0ms Unloading: Package CoopClearTest
+Log: 316721.0ms Unloading: Package ConvenienceStoreBadHavok
+Log: 316721.0ms Unloading: Package CompliantEnemyTest
+Log: 316722.0ms Unloading: Package ClearTest2
+Log: 316722.0ms Unloading: Package ClearTest
+Log: 316722.0ms Unloading: Package Characters_04
+Log: 316722.0ms Unloading: Package Characters_03
+Log: 316722.0ms Unloading: Package Characters_02
+Log: 316723.0ms Unloading: Package Characters_01
+Log: 316723.0ms Unloading: Package BUG_ThrowThruGlass
+Log: 316723.0ms Unloading: Package BUG_SpinningLights
+Log: 316723.0ms Unloading: Package BUG_SkeletalMaterial
+Log: 316723.0ms Unloading: Package Bug_NoGlowSkeletal
+Log: 316723.0ms Unloading: Package Bug_NoGlow
+Log: 316723.0ms Unloading: Package BUG_HighDetailAssert
+Log: 316724.0ms Unloading: Package Bug_HavokSkeletalConstrain
+Log: 316724.0ms Unloading: Package BUG_havockterrain
+Log: 316724.0ms Unloading: Package BUG_FXBB
+Log: 316724.0ms Unloading: Package BUG_exitSpangs
+Log: 316724.0ms Unloading: Package BUG_EmitterCoords
+Log: 316724.0ms Unloading: Package BUG_Disappear
+Log: 316724.0ms Unloading: Package Bug_8007
+Log: 316725.0ms Unloading: Package Bug_2311
+Log: 316725.0ms Unloading: Package BrokenZoningOfficeTest
+Log: 316725.0ms Unloading: Package BreachStunTest
+Log: 316725.0ms Unloading: Package BombGreenRoom
+Log: 316725.0ms Unloading: Package BlockingDoorTest
+Log: 316725.0ms Unloading: Package Arsenal
+Log: 316725.0ms Unloading: Package armswierdness
+Log: 316726.0ms Unloading: Package ArmsDealMPTestNoDoors
+Log: 316726.0ms Unloading: Package AnimationTest
+Log: 316726.0ms Unloading: Package AnimatedMeshTest
+Log: 316726.0ms Unloading: Package AIMirrorTest
+Log: 316726.0ms Unloading: Package SP-Training
+Log: 316727.0ms Unloading: Package SP-Tenement
+Log: 316728.0ms Unloading: Package SP-RedLibrary
+Log: 316728.0ms Unloading: Package SP-JewelryHeist
+Log: 316729.0ms Unloading: Package SP-Hotel
+Log: 316730.0ms Unloading: Package SP-Hospital
+Log: 316731.0ms Unloading: Package SP-FoodWall
+Log: 316732.0ms Unloading: Package SP-FairfaxResidence
+Log: 316732.0ms Unloading: Package SP-DNA
+Log: 316733.0ms Unloading: Package SP-ConvenienceStore
+Log: 316734.0ms Unloading: Package SP-Casino
+Log: 316734.0ms Unloading: Package SP-AutoGarage
+Log: 316735.0ms Unloading: Package SP-ArmsDeal
+Log: 316735.0ms Unloading: Package SP-ABomb
+Log: 316736.0ms Unloading: Package MP-Training
+Log: 316736.0ms Unloading: Package MP-TenementTEST
+Log: 316737.0ms Unloading: Package MP-Tenement
+Log: 316737.0ms Unloading: Package MP-RedLibrary
+Log: 316738.0ms Unloading: Package MP-PowerPlant
+Log: 316738.0ms Unloading: Package MP-MeatBarnTest
+Log: 316739.0ms Unloading: Package MP-MeatBarn
+Log: 316739.0ms Unloading: Package MP-JewelryHeist
+Log: 316739.0ms Unloading: Package MP-Hotel
+Log: 316740.0ms Unloading: Package MP-Hospital
+Log: 316740.0ms Unloading: Package MP-Foodwall
+Log: 316741.0ms Unloading: Package MP-FairfaxResidence
+Log: 316741.0ms Unloading: Package MP-DNATEST
+Log: 316742.0ms Unloading: Package MP-DNA
+Log: 316742.0ms Unloading: Package MP-Courthouse
+Log: 316743.0ms Unloading: Package MP-ConvenienceStore
+Log: 316743.0ms Unloading: Package MP-Casino
+Log: 316743.0ms Unloading: Package MP-AutoGarageTEST
+Log: 316744.0ms Unloading: Package MP-AutoGarage
+Log: 316744.0ms Unloading: Package MP-ArmsDeal
+Log: 316744.0ms Unloading: Package MP-ABomb
+Log: 316745.0ms Unloading: Package DeanSPTest
+Log: 316745.0ms Unloading: Package DeanMPTest
+Log: 316745.0ms Unloading: Package swat_splashscene
+Log: 316745.0ms Unloading: Package SP-Warehouse
+Log: 316746.0ms Unloading: Package SP-Subway
+Log: 316747.0ms Unloading: Package SP-Office
+Log: 316748.0ms Unloading: Package SP-HalfwayHouse
+Log: 316748.0ms Unloading: Package SP-DrugLab
+Log: 316749.0ms Unloading: Package SP-Backstage
+Log: 316749.0ms Unloading: Package SP-Arcade
+Log: 316749.0ms Unloading: Package MP-Warehouse
+Log: 316750.0ms Unloading: Package MP-Subway
+Log: 316750.0ms Unloading: Package MP-Office
+Log: 316751.0ms Unloading: Package MP-HalfwayHouse
+Log: 316751.0ms Unloading: Package MP-DrugLab
+Log: 316751.0ms Unloading: Package MP-Backstage
+Log: 316752.0ms Unloading: Package MP-Arcade
+Log: 316752.0ms Unloading: Package CoopQMMLobby
+Log: 316755.0ms Unloading: Package fp_tec9
+Log: 316755.0ms Unloading: Package 3rd_SAW
+Log: 316756.0ms Unloading: Package FP_SAW
+Log: 316762.0ms Unloading: Package SwatObjectives
+Log: 316763.0ms Unloading: Package SWATbadguyTex
+Log: 316764.0ms Unloading: Package FemaleOfficeTex
+Log: 316765.0ms Unloading: Package FemaleNurseTex
+Log: 316765.0ms Unloading: Package FemaleHeavyTex
+Log: 316766.0ms Unloading: Package FemaleCasual3Tex
+Log: 316766.0ms Unloading: Package FemaleCasual2Tex
+Log: 316766.0ms Unloading: Package FemaleCasual1Tex
+Log: 316766.0ms Unloading: Package FemaleAnimation
+Log: (Havok): Notifiing dependant DLLs of Havok shutdown..
+Log: (Havok): Shutting down base system.
+Log: Garbage: objects: 92484->0; refs: 532821
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: Waiting for file streaming thread to finish...
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  0.525M /  10.551M
+Uninitialized: Peak Memory  411.578M /  414.723M
+Uninitialized: Allocs        4993 Current /  89995419 Total
+Uninitialized: Log file closed, 11/22/05 12:41:16

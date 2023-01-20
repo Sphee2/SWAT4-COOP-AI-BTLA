@@ -1,0 +1,134 @@
+;predefined_events.lst
+;
+;This is the list of EffectEvents that will be triggered in code:
+;
+;It is read by the IGEffectsConfigurator and is used to populate the
+; Event drop-down list.
+;This file can also be used as documentation for Effect Events.
+;
+;File Format:
+;   "EventName: Description"
+
+;[Event]                    [Source]                    [When (it) (is)] | [Comments]
+
+BulletHit:                  Ammunition                  hits something
+BulletExited:               Ammunition                  penetrates something
+Frobbed:                    Actor                       frobbed
+FrobDeclined:               PlayerController            tried to frob, but there was nothing to frob.  (currently not called, since Frob button reloads if nothing to Frob)
+Spawned:                    Actor                       spawned
+Alive:                      Actor                       spawned | Untriggered when it is destroyed.  Also, Alive is untriggered just before a RWO changes its static mesh, and retriggered just after the RWO changes its static mesh.
+Destroyed:                  Actor                       destroyed
+PickedUp:                   Pickup                      picked up
+Triggered:                  Actor                       triggered | (ie. this SoundEvent is triggered when the Actor gets a traditional Unreal Trigger() call).
+Opening:                    Mover                       begins opening
+Opened:                     Mover                       finished opening | (Opening is also UnTriggered then.)
+Closing:                    Mover                       begins closing
+Closed:                     Mover                       finished closing | (Closing is also UnTriggered then.)
+Detonated:                  SwatGrenadeProjectile, DeployedC2ChargeBase       detonates | When a C2Charge detonates, it sends the material of the door that it was deployed on.  This way, you can customize the effects based on the door's material.
+Bounced:                    SwatGrenadeProjectile       bounces 
+StoppedBouncing:            SwatGrenadeProjectile       has performed its last bounce (it also triggers 'Bounced' at the same time) 
+Thrown:                     ThrownWeapon                thrown
+Fired:                      FiredWeaponModel            fired | Triggered on the currently visible FiredWeaponModel, ie. the first or third person model.
+EmptyFired:                 FiredWeaponModel            fired when empty | Triggered on the currently visible FiredWeaponModel, ie. the first or third person model.
+BurstFired:                 FiredWeaponModel            fired one round in a series of burst or auto-fire
+FlashlightSwitchedOn:       FiredWeapon                 turns its flashlight on | This happens for both the player's weapon and also the officers' weapons
+FlashlightSwitchedOff:      FiredWeapon                 turns its flashlight off | This happens for both the player's weapon and also the officers' weapons
+Damaged:                    Actor                       takes damage
+DamagedDead:                Pawn                        takes damage when it is dead
+Died:                       SwatPawn                    dies
+KarmaImpacted:              KActor & ReactiveKarmaActor gets an event KImpact() call
+PreAppearanceChanged:       ReactiveWorldObject         about to change its appearance (mesh or texture). | 'Alive' is UnTriggered before 'PreAppearanceChanged' is Triggered when changing StaticMesh but not when changing texture.
+PostAppearanceChanged:      ReactiveWorldObject         has just changed its appearance (mesh or texture). | 'Alive' is Triggered after 'PostAppearanceChanged' is Triggered when changing StaticMesh but not when changing texture.
+Equipped:                   HandheldEquipment, SwatPawn a piece of HandheldEquipment is Equipped.  | When triggered on a SwatPawn, the piece of HandheldEquipment is passed as Other, ie. Target Class.
+UnEquipped:                 HandheldEquipment, SwatPawn a piece of HandheldEquipment is UnEquipped.  | When triggered on a SwatPawn, the piece of HandheldEquipment is passed as Other, ie. Target Class.
+Used:                       HandheldEquipment           hits the key frame of its Use animation
+LockedDoorTried:            SwatDoor                    tried (by a Pawn) but is locked
+Wedged:                     SwatDoor                    wedged
+UnWedged:                   SwatDoor                    un-wedged
+UnLocked:                   SwatDoor                    unlocked
+Blasted:                    SwatDoorModel               blasted (both models for DoubleDoor) (ie. with a shotgun)
+Breached:                   SwatDoorModel               breached (both models for DoubleDoor) (ie. with a C2 charge)
+QualifyBegan:               QualifiedUseEquipment       the Player began to use | the Player plays a begin qualification animation
+Qualifying:                 QualifiedUseEquipment       the Player is waiting for qualification | the Player normally loops a qualifying animation while this happens.  This is UnTriggered when qualification ends, whether it is completed or interrupted.
+Qualified:                  QualifiedUseEquipment       the Player has completed qualification | the Player plays an end qualification animation
+QualifyInterrupted:         QualifiedUseEquipment       the Player was interrupted while qualifying | the Player plays an end qualification animation
+GreyedOutCommandGiven:      PlayerController            the Player issues a command that is currently greyed-out in the CommandInterface
+NormalCommandGiven:         PlayerController            the Player issues a command (that is not currently greyed-out) in the CommandInterface
+FiredProbe:                 Taser                       fires a probe. | Happens twice when a Taser is fired.
+Flashbanged:                SwatPlayer                  affected by a Flashbang.  | Untriggered when affect ends.  Note that this is _only_ triggered while a Player is alive, and not when viewing thru another Player's eyes.
+Gassed:                     SwatPlayer                  affected by a CSGasGrenade.  | Untriggered when affectends.  Note that this is _only_ triggered while a Player is alive, and not when viewing thru another Player's eyes.
+Stung:                      SwatPlayer                  affected by a StingGrenade.  | Untriggered when affectends.  Note that this is _only_ triggered while a Player is alive, and not when viewing thru another Player's eyes.
+PepperSprayed:              SwatPlayer                  affected by PepperSpray.  | Untriggered when affectends.  Note that this is _only_ triggered while a Player is alive, and not when viewing thru another Player's eyes.
+SelectionChanged:           GraphicCommandInterface     a different menu pad was selected as a result of an "up" or "down" motion
+MenuChanged:                GraphicCommandInterface     the selection moved from one menu to another as a result of a "left" or "right" motion
+GaveCommand:                GraphicCommandInterface     the currently selected command was given as a result of a left mouse click
+MainMenuBeganOpening:       GraphicCommandInterface     the main menu began opening as a result of a right mouse button press
+SubMenuBeganOpening:        GraphicCommandInterface     a sub menu began opening as a result of its "anchor" pad being selected
+MainMenuBeganClosing:       GraphicCommandInterface     the main menu began closing as a result of a right mouse button release
+SubMenuBeganClosing:        GraphicCommandInterface     a sub menu becan closing as a result of its "anchor" pad being unselected
+InZone:                     Pawn                        a Pawn enters a Zone | Untriggered when the Pawn leaves the Zone
+ObjectiveShown:             GameInfo                    an Objective was shown in the GUI | the Name of the Objective is passed as the Tag
+ObjectiveHidden:            GameInfo                    an Objective was hidden in the GUI | the Name of the Objective is passed as the Tag
+SecuredEvidence:            SwatPawn                    the SwatPawn secured a piece of evidence | this will happen for SwatOfficers and SwatPlayers (both are SwatPawns)
+Denied:                     GraphicCommandInterface     the player tried to open the GCI, but it is disabled | we may want to trigger this on other Actors under other conditions
+ReportedDOA:                SwatPlayer                  the player started reporting a DOA | passes the StaticDOA as the "Other"
+RepliedDOAReported:         SwatPlayer                  the player finished reporting a DOA | passes the StaticDOA as the "Other"
+ReportedDeadSuspect:        SwatPlayer                  the player started reporting a dead suspect | passes the suspect as the "Other"
+ReportedInjSuspectSecured:  SwatPlayer                  the player started reporting an injured suspect | passes the suspect as the "Other"
+ReportedSuspectSecured:     SwatPlayer                  the player started reporting a secured suspect | passes the suspect as the "Other"
+RepliedInjSuspectReported:  SwatPlayer                  the player finished reporting a dead or injured suspect | passes the suspect as the "Other"
+RepliedSuspectReported:     SwatPlayer                  the player finished reporting a secured suspect | passes the suspect as the "Other"
+ReportedHostageKilled:      SwatPlayer                  the player started reporting a dead hostage | passes the suspect as the "Other"
+ReportedInjCivilianSecured: SwatPlayer                  the player started reporting an injured hostage | passes the suspect as the "Other"
+ReportedCivilianSecured:    SwatPlayer                  the player started reporting a secured hostage | passes the suspect as the "Other"
+RepliedInjHostageReported:  SwatPlayer                  the player finished reporting a dead or injured hostage | passes the suspect as the "Other"
+RepliedHostageReported:     SwatPlayer                  the player finished reporting a secured hostage | passes the suspect as the "Other"
+ReportedR1DownToTOC:        SwatPlayer                  the player started reporting an injured red one officer | passes the suspect as the "Other"
+ReportedR2DownToTOC:        SwatPlayer                  the player started reporting an injured red two officer | passes the suspect as the "Other"
+ReportedB1DownToTOC:        SwatPlayer                  the player started reporting an injured blue one officer | passes the suspect as the "Other"
+ReportedB2DownToTOC:        SwatPlayer                  the player started reporting an injured blue two officer | passes the suspect as the "Other"
+RepliedOfficerDown:         SwatPlayer                  the player finished reporting an injured office | passes the suspect as the "Other"
+BombExploded:               BombBase,PlayerController   a Bomb explodes
+MissionEnded:               PlayerController            the mission ends, regardless of whether it is complete or failed
+MissionCompleted:           PlayerController            the mission is complete
+MissionFailed:              PlayerController            the mission is failed
+UIMissionBriefing:          PlayerController            the mission briefing begins
+UIMission911Call:           PlayerController            the mission 911 Call begins
+UIMissionDispatcher:        PlayerController            the mission dispatcher call begins
+ObjectiveShown:             PlayerController            an Objective was shown in the GUI | Nothing passed as the tag
+SniperAlerted:              PlayerController            a sniper alert was triggered
+EquipNotAvailable:          PlayerController            the player tried to equip an item, but there were no items of that type available
+SwatWin:                    PlayerController            Swat won the Round in MP
+SuspectsWin:                PlayerController            Suspects won the Round in MP
+AllBombsDisarmed:           PlayerController            all the bombs were disarmed in MP
+GameTied:                   PlayerController            the game was tied in MP
+OneMinWarning:              PlayerController            a one minute warning before bombs explode was triggered
+DisarmBomb:                 PlayerController            a bomb was disarmed
+SwatRespawnEvent:           PlayerController            Swat respawned
+SuspectsRespawnEvent:       PlayerController            Suspects respawned
+VIPSafe:                    PlayerController            the VIP reached the goal and was rescued
+VIPRescued:                 PlayerController            the VIP was un-handcuffed
+VIPCaptured:                PlayerController            the VIP was handcuffed
+YouAreVIP:                  PlayerController            the player was notified that he is the VIP
+WinSuspectsGoodKill:        PlayerController            Swat killed the VIP - the suspects win
+WinSuspectsBadKill:         PlayerController            Suspects killed the VIP - the suspects win
+WinSwatBadKill:             PlayerController            Suspects killed the VIP too soon - Swat wins
+ViewingFromEvent:           PlayerController            the player is now viewing through a teammates eyes
+ViewingFromNoneEvent:       PlayerController            the player is not viewing through anybody's eyes
+GameTimer:                  PlayerController            the game timer is ticked (minus one second)
+MissionTimer:               PlayerController            the mission timer is ticked (minus one second)
+RespawnTimer:               PlayerController            the respawn timer is ticked (minus one second)
+TeamSay:                    PlayerController            a team chat message was sent to the player
+Say:                        PlayerController            a global chat message was sent to the player
+SwatSuicide:                PlayerController            a player on Swat suicided
+SuspectsSuicide:            PlayerController            a player on Suspects suicided
+SwatTeamKill:               PlayerController            a player on Swat killed a teammate
+SuspectsTeamKill:           PlayerController            a player on Suspects killed a teammate
+SwatKill:                   PlayerController            a player on Swat killed a Suspect
+SuspectsKill:               PlayerController            a player on Suspects killed a Swat dude
+SwatArrest:                 PlayerController            a player on Swat arrested a Suspect
+SuspectsArrest:             PlayerController            a player on Suspects arrested a Swat dude
+Started:                    AmbientSound                the game starts
+
+;Please Note: Only specify one Specification for EffectEvents that may be UnTriggered.  This is because otherwise, the Specification selected to be stopped may not be the same as the one selected to be played.
+
