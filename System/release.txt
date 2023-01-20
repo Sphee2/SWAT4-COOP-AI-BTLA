@@ -1,4 +1,0 @@
-VERSION 82610
-2005/11/22
-
-this build was packaged at Tue Nov 22 12:32:16 AUS Eastern Daylight Time 2005 from stable
